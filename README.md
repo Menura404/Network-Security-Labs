@@ -15,22 +15,22 @@ Although conducted in a simulated academic environment, the challenges and solut
 ---
 
 ## Key Features
-- 🔑 **Secure OpenSSH Configuration**  
+- **Secure OpenSSH Configuration**  
   Hardened with key-based auth, disabled root login, custom ports, and protocol tuning.
-- 🧠 **Multi-Factor Authentication (MFA)**  
+- **Multi-Factor Authentication (MFA)**  
   Added a second layer of defense using tools like Google Authenticator.
-- 🕵️‍♂️ **Honeypot with Cowrie**  
+- **Honeypot with Cowrie**  
   Captured and analyzed brute-force login attempts and attacker behavior.
-- 🔥 **Firewall Rules via iptables**  
+- **Firewall Rules via iptables**  
   Crafted custom rulesets for ingress/egress filtering with robust logging.
-- 🛡️ **Threat Detection & Logging**  
+- **Threat Detection & Logging**  
   Monitored SSH logs, honeypot logs, and firewall events to detect anomalies.
-- 🧪 **Vulnerability Scanning**  
+- **Vulnerability Scanning**  
   Conducted port scans and baseline audits to uncover and fix security gaps.
 
 ---
 
-## 🛠️ Skills & Tools Demonstrated
+## Skills & Tools Demonstrated
 - **Linux Server Hardening** (OpenSSH)
 - **Multi-Factor Authentication (MFA)**
 - **Honeypot Deployment & Monitoring** (Cowrie)
@@ -40,14 +40,14 @@ Although conducted in a simulated academic environment, the challenges and solut
 - **Virtualized Labs & Practical Security Workflows** (Kali Linux)
 
 ---
-## 🧭 Architecture Diagram
+## Architecture Diagram
 <img width="1236" height="653" alt="net sec" src="https://github.com/user-attachments/assets/d3b4cdb2-8761-4fc0-b811-72eb4e7cab59" /> 
 
-## 📂 Project Structure
+## Project Structure
 ├── configs/ # Configuration files (OpenSSH, iptables, etc.)
 ├── cowrie_logs/ # Sample honeypot logs & parsed analysis
 ├── diagrams/ # Network topology and system flow diagrams
 ├── reports/ # Vulnerability assessments & recommendations
 ├── setup_instructions.md # Step-by-step deployment guide
 
-👤 Author : P.M. Menura Binath
+--Author : P.M. Menura Binath--
