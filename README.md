@@ -1,7 +1,7 @@
-# Network-Security-Labs 🔐
+# Network-Security-Labs 
 As part of my undergraduate studies in **Network Security**, I designed and implemented a secure virtual network infrastructure using **Kali Linux**. This project simulates a real-world security deployment, integrating multiple layers of protection, monitoring, and auditing techniques to defend against unauthorized access.
 
-🧩 Project Overview
+## Project Overview
 This project focuses on designing a hardened Linux environment featuring:
 
 - **OpenSSH server** configured with **key-based authentication**
@@ -14,7 +14,7 @@ This project focuses on designing a hardened Linux environment featuring:
 Although conducted in a simulated academic environment, the challenges and solutions mirror real-world scenarios faced by cybersecurity professionals.
 ---
 
-## 🚀 Key Features
+## Key Features
 - 🔑 **Secure OpenSSH Configuration**  
   Hardened with key-based auth, disabled root login, custom ports, and protocol tuning.
 - 🧠 **Multi-Factor Authentication (MFA)**  
