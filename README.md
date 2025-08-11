@@ -1,4 +1,7 @@
 # Network-Security-Labs 
+
+![network sec](https://github.com/user-attachments/assets/f9cae707-58d1-416e-9c2c-5adf1a27a607)
+
 As part of my undergraduate studies in **Network Security**, I designed and implemented a secure virtual network infrastructure using **Kali Linux**. This project simulates a real-world security deployment, integrating multiple layers of protection, monitoring, and auditing techniques to defend against unauthorized access.
 
 ## Project Overview
