@@ -44,10 +44,10 @@ Although conducted in a simulated academic environment, the challenges and solut
 <img width="1236" height="653" alt="net sec" src="https://github.com/user-attachments/assets/d3b4cdb2-8761-4fc0-b811-72eb4e7cab59" /> 
 
 ## Project Structure
-**1** configs/ # Configuration files (OpenSSH, iptables, etc.)
-**2** cowrie_logs/ # Sample honeypot logs & parsed analysis
-**3**diagrams/ # Network topology and system flow diagrams
-**4**reports/ # Vulnerability assessments & recommendations
-**5**setup_instructions.md # Step-by-step deployment guide
+- configs/ # Configuration files (OpenSSH, iptables, etc.)
+- cowrie_logs/ # Sample honeypot logs & parsed analysis
+- diagrams/ # Network topology and system flow diagrams
+- reports/ # Vulnerability assessments & recommendations
+- setup_instructions.md # Step-by-step deployment guide
 
 --**Author : P.M. Menura Binath**--
